@@ -1,0 +1,28 @@
+name: diego
+favicon: null
+layout_spectrum: 0.7283413866534829
+typography_spectrum: 0.9941921457648277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9711892183404416
+  lightness: 0.5789389684796333
+  saturation: 0.12658124137669802
+  rhythmicContrast: 0.005285779479891062
+purpose: []
