@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Diego Test Site]]></title>
         <description><![CDATA[Diego Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/diego/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 15:35:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 16:06:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diego/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cde734ef-d9ad-4f23-81f6-9ddc46d7bdb7.jpg">]]></description>
+            <link>https://thegrid.ai/diego/a255e939-86fe-4f0b-8b88-e879113e72f3/index.html</link>
+            <guid isPermaLink="false">a255e939-86fe-4f0b-8b88-e879113e72f3</guid>
+            <pubDate>Mon, 07 Mar 2016 16:05:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/975546f6-d6e0-43cf-b05a-a273aea7d75b.jpg">]]></description>
-            <link>undefineddfcf27b3-7cd3-498a-a3bf-a1182a7206db/index.html</link>
+            <link>https://thegrid.ai/diego/dfcf27b3-7cd3-498a-a3bf-a1182a7206db/index.html</link>
             <guid isPermaLink="false">dfcf27b3-7cd3-498a-a3bf-a1182a7206db</guid>
             <pubDate>Mon, 07 Mar 2016 15:33:30 GMT</pubDate>
         </item>
