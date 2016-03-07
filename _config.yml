@@ -1,6 +1,6 @@
 name: diego
 favicon: null
-layout_spectrum: 0.7283413866534829
+layout_spectrum: 1
 typography_spectrum: 0.25431
 cta:
   domain: null
@@ -17,10 +17,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#f1da15'
-    - '#ada89b'
-    - '#6f3540'
-    - '#ab022b'
+    - '#134e7f'
+    - '#abd476'
+    - '#00ff00'
+    - '#ffff00'
   brandStrength: 0.5
   lightness: 0.5789389684796333
   saturation: 0.4375
